@@ -1,0 +1,23 @@
+   0.002 2020-08-16 21:45:59; Factorio 1.0.0 (build 54889, linux64, headless)
+   0.003 Operating system: Linux
+   0.003 Program arguments: "/opt/factorio/bin/x64/factorio" "--create" "/factorio/saves/_autosave1.zip" "--map-gen-settings" "/factorio/config/map-gen-settings.json" "--map-settings" "/factorio/config/map-settings.json" 
+   0.004 Read data path: /opt/factorio/data
+   0.005 Write data path: /factorio [57900/953866MB]
+   0.005 Binaries path: /opt/factorio/bin
+   0.015 System info: [CPU: Intel(R) Core(TM) i7-9700K CPU @ 3.60GHz, 4 cores, RAM: 3940 MB]
+   0.015 Environment: DISPLAY=<unset> WAYLAND_DISPLAY=<unset> DESKTOP_SESSION=<unset> XDG_SESSION_DESKTOP=<unset> XDG_CURRENT_DESKTOP=<unset> __GL_FSAA_MODE=<unset> __GL_LOG_MAX_ANISO=<unset> __GL_SYNC_TO_VBLANK=<unset> __GL_SORT_FBCONFIGS=<unset> __GL_YIELD=<unset>
+   0.016 Running in headless mode
+   0.026 Loading mod core 0.0.0 (data.lua)
+   0.074 Loading mod base 1.0.0 (data.lua)
+   0.356 Loading mod base 1.0.0 (data-updates.lua)
+   0.505 Checksum for core: 2630831588
+   0.505 Checksum of base: 3509992273
+   0.721 Prototype list checksum: 3301461508
+   0.782 Info PlayerData.cpp:68: Local player-data.json available, timestamp 1597464412
+   0.783 Info PlayerData.cpp:75: Cloud player-data.json unavailable
+   0.794 Factorio initialised
+   0.797 Info Main.cpp:724: Creating new map /factorio/saves/_autosave1.zip
+   1.980 Loading level.dat: 1229241 bytes.
+   1.981 Info Scenario.cpp:187: Map version 1.0.0-0
+   2.013 Checksum for script /factorio/temp/currently-playing/control.lua: 3931528263
+   2.379 Goodbye
